@@ -6,7 +6,7 @@
 
 ## How to ❓
 
-1. Run the command `git clone https://github.com/TahaCoder43/tmux-config.git ~/.config/tmux`
+1. Run the command `git clone https://github.com/TahaCoder43/tmux-config ~/.config/tmux`
 
 2. Open tmux and press prefix + i (prefix key by default is Ctrl + b)
 
