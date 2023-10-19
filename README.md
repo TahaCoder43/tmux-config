@@ -8,6 +8,6 @@
 
 1. Run the command `git clone https://github.com/TahaCoder43/tmux-config ~/.config/tmux`
 
-2. Open tmux and press prefix + i (prefix key by default is Ctrl + b)
+2. Open tmux and press prefix + i (prefix key by default is Ctrl + b, in my confi it's Alt+e or option+e on mac)
 
 
